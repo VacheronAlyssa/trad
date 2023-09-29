@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Traduction de CSV</title>
+</head>
+<body>
+    <h1>Traduction de CSV</h1>
+    <form action="/translate" method="post" enctype="multipart/form-data">
+        <input type="file" id="csv_file" name="csv_file" accept=".csv" required>
+        <br>
+        <button type="submit">Traduire et Télécharger</button>
+    </form>
+
+    <a id="downloadLink" style="display: none;" download="translated.csv">Télécharger le fichier traduit</a>
+
+    <!-- Ajoutez un élément div pour afficher le message de progression -->
+    <div id="progressMessage" style="display: none;"></div>
+</body>
+</html>

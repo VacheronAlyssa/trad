@@ -1,0 +1,139 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 154-030-180
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 154-030-180
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2023 16:53:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2023 16:53:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2023 16:53:04] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Remise facture autorisée
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2023 16:53:08] "[35m[1mPOST /translate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2023 16:53:08] "[36mGET /translate?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2023 16:53:08] "[36mGET /translate?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2023 16:53:09] "[36mGET /translate?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/mnt/c/Users/avacheron/OneDrive - ISATECH/Documents/Axelor/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 154-030-180
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 154-030-180
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2023 16:54:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2023 16:54:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2023 16:54:35] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Remise facture autorisée
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Autoriser remise ligne
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Montant
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Calcul niveau
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Mode calcul
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Type calcul
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Base calcul prestation
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Société
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Type contact
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Code devise
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Désignation
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Code document
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Type document
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Date de fin
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : N° article
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Ligne utilisée
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Type de lot
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Montant maximum
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Taux base Maximum
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Montant prestation maximum
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Montant minimum
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Taux base minimum
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Montant prestation minimum
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Pourcentage
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Prix TTC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Priorité prix
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Type Barème
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : % prestation
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Date de début
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Barème tarification
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Code tarification
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Type de transaction
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Prix unitaire
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Prix fiche article
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cognitive.microsofttranslator.com:443
+DEBUG:urllib3.connectionpool:https://api.cognitive.microsofttranslator.com:443 "POST /translate?api-version=3.0&from=fr&to=nl HTTP/1.1" 401 111
+ERROR:root:La traduction a échoué pour le texte : Gpe compta. march TVA (prix),,
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2023 16:54:45] "POST /translate HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/mnt/c/Users/avacheron/OneDrive - ISATECH/Documents/Axelor/app.py', reloading
+INFO:werkzeug: * Restarting with stat
